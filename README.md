@@ -7,7 +7,10 @@ of joystick to drive their robots.
 
 ## Spec
 
-* Schematic: adc_schematic.png
+* Schematic: adc_schematic.jpg
+
+  <img src="https://github.com/gedex/pwm-from-adc/raw/master/adc_schematic.jpg">
+
 * Internal ADC from ATMega16 or ATMega8535
 * ADC0 (PINA.0) and ADC1 (PINA.1) connected to potentiometer (10k or 50k is fine). Sliding contact from potentiometer is hooked into two
   meshing gears.
